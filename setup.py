@@ -11,9 +11,9 @@ setup(
     description="A json base config lib.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/DancingSnow0517/KaiheilaCardBuilder",
+    url="https://github.com/DancingSnow0517/ConfigJ",
     project_urls={
-        "Bug Tracker": "https://github.com/DancingSnow0517/KaiheilaCardBuilder/issues",
+        "Bug Tracker": "https://github.com/DancingSnow0517/ConfigJ/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
